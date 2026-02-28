@@ -1,5 +1,4 @@
-//your JS code here. If required.
- <script>
+//your JS code here. If required
     const form = document.getElementById("loginForm");
     const usernameInput = document.getElementById("username");
     const passwordInput = document.getElementById("password");
@@ -45,4 +44,4 @@
         alert(`Logged in as ${savedUser.username}`);
       }
     });
-  </script>
+  
